@@ -230,5 +230,5 @@ if __name__ == "__main__":
   print("Final Training Accuracy: ", Score[1]*100)
   print('-----------------------------------------------------------------------')
 
-  ## 3. Save Model
-  Model.save("models/20842555_NLP_model.h5")
+  ## 3. Save Model ()
+  Model.save("models/NLP_model.h5")
