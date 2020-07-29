@@ -13,4 +13,4 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 
 4. Data Directory: Download Data using above mentioned link and extract it inside the "data" repository
 
-### Final Testing Accuracy: 86.9%
+#### Final Testing Accuracy: 86.9%
