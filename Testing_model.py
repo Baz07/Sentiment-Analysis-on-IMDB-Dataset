@@ -55,7 +55,7 @@ def load_test_data(data_path):
 
 if __name__ == "__main__":
   ## 1. Load the Trained Model
-  Model = load_model("models/20842555_NLP_model.h5")
+  Model = load_model("models/NLP_model.h5")
 
   ## Load the Tokenizer from "train_NLP" File (Needed to perform "Texts to Sequence" and "Pad Sequences" Operation)
   Text_Sequence_Convertor = pickle.load(open("models/Sequence_convertor.pkl", "rb"))
