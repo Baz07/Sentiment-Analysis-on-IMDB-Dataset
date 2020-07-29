@@ -1,1 +1,2 @@
-
+#### Download the data and extract it inside the data repository.
+#### Example (How it should look): data/aclImdb/...
