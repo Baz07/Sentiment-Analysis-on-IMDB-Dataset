@@ -1,2 +1,2 @@
-#### Download the data and extract it inside the data repository.
+#### Download the data using provided link in main repo Readme File. Extract it inside the data repository.
 #### Example (How it should look): data/aclImdb/...
